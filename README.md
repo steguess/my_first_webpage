@@ -1,4 +1,4 @@
-![Banner](Artist.png)
+![Banner](Artist.webp)
 
 
 # 🎨 Dasmoto's Arts & Crafts 🖌️
