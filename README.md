@@ -1,8 +1,6 @@
 ![Banner](Artist.webp)
 # Dasmoto's Arts & Crafts
 
-<img src="Artist.webp)" alt="Banner" width="800" height="200">
-
 Welcome to my first HTML website project!
 
 
