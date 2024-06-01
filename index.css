@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    text-align:  left;
+  }
+  
+  header {
+    text-align: center;
+  }
+
+
+.banner {
+    position: relative;
+    height: 300px; /* Adjust height as needed */
+  }
+  
+  .background-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .banner h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: Khaki;
+    margin: 0;
+    padding: 0;
+  }
+
+p, h3 { 
+    text-align: left;
+    padding-left: 20px; /* Add padding to create some space from the left edge */
+
+  }
+
+  
+
+
+ #brush {
+    background-color: mediumspringgreen;
+    }
+
+#paint {
+        background-color: lightskyblue;
+        }
+
+#frames {
+        background-color: lightcoral;
+        }
+
+.item h2 {
+    color:white;
+    font-size: 30px;
+}
+  
+h2 {
+    display:block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    align-content: start;
+    text-align: left;
+    padding-left: 20px; /* Add padding to create some space from the left edge */
+  }
+  
+
+  .price {
+    font-weight: bold;
+    color:blue
+  }
+  
+  .item img {
+    width: 100%; /* Adjust width as needed */
+    max-width: 300px; /* Optional: set a maximum width for the image */
+    display: block;
+    margin: 20px 0; /* Add vertical margin to create space */
+    margin-left: 10px; /* Align images to the left */
+  }
+
+  img {
+    overflow-clip-margin: conent-box;
+    overflow: clip; 
+  }
